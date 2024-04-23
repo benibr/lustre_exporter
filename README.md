@@ -2,8 +2,8 @@
 
 <!-- TODO: Create an issue for both, if necessary.
 [![Go Report Card](https://goreportcard.com/badge/github.com/HewlettPackard/lustre_exporter)](https://goreportcard.com/report/github.com/HewlettPackard/lustre_exporter)
-[![Build Status](https://travis-ci.org/HewlettPackard/lustre_exporter.svg?branch=master)](https://travis-ci.org/HewlettPackard/lustre_exporter)
 -->
+[![Continuous Integration](https://github.com/benibr/lustre_exporter/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/benibr/lustre_exporter/actions/workflows/ci.yml)
 
 [Prometheus](https://prometheus.io/) exporter for [Lustre](https://www.lustre.org/) metrics.
 
