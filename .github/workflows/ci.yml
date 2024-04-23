@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-run-test:
+  build-extract-upload:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository contents
